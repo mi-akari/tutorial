@@ -1,5 +1,6 @@
 サルでもわかるGitコマンド
 
-
-
 aiueo
+remoteで更新
+
+remoteでさらに更新
